@@ -10,11 +10,11 @@ and do a pull request.
 
 |                  | Windows | Windows Linux |Linux| MAC | Repl.it |Ideone.com |
 |:-----------------|:--------|:-------------:|:---:|:---:|:-------:|-----------|
-|**Multiprocessing_1** |Hangs    |(Debian) Hangs |     |     | Works   | Fails     |
-|**Multiprocessing_2** |Works    |(Debian) Works |     |     | Works   | Works     |
-|**Multiprocessing_3** |Works    |(Debian) Works |     |     | Works   | Works     |
-|**Multiprocessing_4** |Hangs/Fails| (Debian) Hangs|   |   |  Works   | Fails     |
-|**Multiprocessing_5** |Hangs   | (Debian) Hangs|   |      | Works |  Fails | 
+|**Multiprocessing_1** |Hangs|(Debian) Hangs |     |Fails| Works   | Fails     |
+|**Multiprocessing_2** |Works|(Debian) Works |     |Fails| Works   | Works     |
+|**Multiprocessing_3** |Works|(Debian) Works |     |Works| Works   | Works     |
+|**Multiprocessing_4** |Hangs/Fails|(Debian) Hangs|   |Works|Works | Fails |
+|**Multiprocessing_5** |Hangs   | (Debian) Hangs|     |Fails|Works |  Fails | 
 
 
 
